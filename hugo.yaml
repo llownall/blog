@@ -1,0 +1,11 @@
+baseURL: https://llownall.github.io/
+languageCode: ru-RU
+theme: PaperMod
+title: llownall - заметки
+params:
+  homeInfoParams:
+    Title: Страничка с моими айти-проделками
+    Content: "Контакты:"
+  socialIcons:
+    - name: telegram
+      url: "https://t.me/llownall"
